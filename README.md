@@ -1,11 +1,11 @@
 💫About Me :
 Hi, I'm Thinh 👋
 
-I'm a Python Developer
+I'm an Frontend Developer
 
 👀 I am seeking an internship
 
-🌱 I'm currently studying for a engineer degree in Information Technology at the EAUT University
+🌱 I'm currently studying for a engineer degree in Information Technology at the Thuyloi University
 
 📫 My email: t.dohuuthinh@gmail.com
 
